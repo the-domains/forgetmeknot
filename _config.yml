@@ -1,0 +1,28 @@
+name: forgetmeknot
+favicon: null
+layout_spectrum: 0.5500477999448776
+typography_spectrum: 0.8780812465120107
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07195676537230611
+  lightness: 0.8992965924553573
+  saturation: 0.7826379188336432
+  rhythmicContrast: 0.12613606522791088
+purpose: []
